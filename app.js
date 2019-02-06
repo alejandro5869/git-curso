@@ -1,0 +1,1 @@
+colose.log('hello world');
